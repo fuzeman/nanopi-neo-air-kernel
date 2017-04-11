@@ -1,6 +1,6 @@
 name: nanopi-neo-air-kernel
 summary: Minimal kernel for the NanoPi NEO Air
-version: 4.10.8-alpha.1
+version: 4.10.8-alpha.2
 type: kernel
 
 description: |
